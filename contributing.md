@@ -1,3 +1,3 @@
 # Contributing
 
-<!-- Reminders here. -->
+Reminders here.
